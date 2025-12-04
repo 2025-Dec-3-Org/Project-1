@@ -1,7 +1,7 @@
 # hello-world-2025-dec-03-a
 A repository to learn about GitHub Foundations certification.
 
-- [] do this
+- [ ] do this
 - [x] done this
 
 1. first
