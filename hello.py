@@ -1,7 +1,7 @@
 import os
 
-print('hello')
-print('hello')
+print('helloooo')
+print('helloooo')
 
 
 directory = input("Enter the directory to list: ")
